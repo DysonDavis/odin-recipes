@@ -1,0 +1,21 @@
+body{
+    background-color:gray;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    color:darkred;
+}
+
+h2{
+    color: darkred;
+}
+
+p, ol, ul{
+    font-size: 18px;
+    color:papayawhip;
+}
+
+
